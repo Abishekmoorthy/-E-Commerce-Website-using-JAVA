@@ -1,5 +1,5 @@
 # E-Commerce-Website-using-JAVA
-**Introduction: **
+Introduction: 
         A functional E-Commerce website built with Java, featuring user authentication, product browsing, cart management, and an admin panel for managing products and orders.
 
 *Features*
