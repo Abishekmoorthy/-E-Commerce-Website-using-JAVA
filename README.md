@@ -1,5 +1,6 @@
 # E-Commerce-Website-using-JAVA
-*Introduction: *   A functional E-Commerce website built with Java, featuring user authentication, product browsing, cart management, and an admin panel for managing products and orders.
+**Introduction: **
+        A functional E-Commerce website built with Java, featuring user authentication, product browsing, cart management, and an admin panel for managing products and orders.
 
 *Features*
   Customer:
@@ -14,12 +15,16 @@
   Server: Apache Tomcat
 
 
-*Setup Instructions*
+***Setup Instructions***
    1. Clone the repo:
             #git clone https://github.com/username/E-Commerce-Website-using-JAVA.git
+      
    2.Create a ecommerce database and run the SQL script in the database/ folder.
+   
    3.Configure database in dbconfig.properties.
+   
    4.Deploy the project on Apache Tomcat.
+   
    5.Access the site at http://localhost:8080/E-Commerce-Website.
 
 *Usage*
