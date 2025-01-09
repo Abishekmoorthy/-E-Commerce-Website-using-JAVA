@@ -16,16 +16,16 @@
 
 
 ***Setup Instructions***
-   1. Clone the repo:
+           1. Clone the repo:
             #git clone https://github.com/username/E-Commerce-Website-using-JAVA.git
       
-   2.Create a ecommerce database and run the SQL script in the database/ folder.
+           2.Create a ecommerce database and run the SQL script in the database/ folder.
    
-   3.Configure database in dbconfig.properties.
+           3.Configure database in dbconfig.properties.
    
-   4.Deploy the project on Apache Tomcat.
+           4.Deploy the project on Apache Tomcat.
    
-   5.Access the site at http://localhost:8080/E-Commerce-Website.
+           5.Access the site at http://localhost:8080/E-Commerce-Website.
 
 *Usage*
 Customers: Browse products, add to cart, place orders.
