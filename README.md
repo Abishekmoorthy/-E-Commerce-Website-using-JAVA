@@ -16,6 +16,7 @@
 
 
 ***Setup Instructions***
+           
            1. Clone the repo:
             #git clone https://github.com/username/E-Commerce-Website-using-JAVA.git
       
