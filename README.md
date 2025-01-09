@@ -5,14 +5,17 @@ Introduction:
 *Features*
   Customer:
           Login/Signup, browse products, add to cart, place orders, and view order history.
+
+
   Admin:
           Manage products and orders, view reports.
           
 *Technologies Used*
-  Frontend: HTML, CSS, JavaScript, Bootstrap
-  Backend: Java (Servlets, JSP), JDBC
-  Database: MySQL
-  Server: Apache Tomcat
+                          
+                Frontend: HTML, CSS, JavaScript, Bootstrap
+                Backend: Java (Servlets, JSP), JDBC
+                Database: MySQL
+                Server: Apache Tomcat
 
 
 ***Setup Instructions***
