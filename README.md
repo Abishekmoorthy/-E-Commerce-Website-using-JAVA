@@ -21,7 +21,7 @@ Introduction:
 ***Setup Instructions***
            
            1. Clone the repo:
-            #git clone https://github.com/username/E-Commerce-Website-using-JAVA.git
+            #git clone https://github.com/Abishekmoorthy/E-Commerce-Website-using-JAVA.git
       
            2.Create a ecommerce database and run the SQL script in the database/ folder.
    
